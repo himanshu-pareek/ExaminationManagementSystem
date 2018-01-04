@@ -1,0 +1,3 @@
+id,username,firstName,lastName,dob,degree,marks,contactNumber,emailId,password,isFirstTime
+1,userEMS45654,Himanshu,Pareek,875180604100,Senoor Secondary,80,9876543210,himanshu@gmail.com,pass123,0
+2,userEMS45655,Aakash,Kumar,884512425137,M.Tech.,86,9876543210,aakash@yahoo.com,9876543210,1

@@ -1,0 +1,15 @@
+id,companyId,companyName,profileLink,jobTitle,aboutJob
+1,1,CompanyOne,https://www.companyone.in,Data Scientist,"Need a data scientist with age 20 - 30
+and experience of at least one year.
+Salary according to the experience"
+2,1,CompanyOne,https://www.companyone.in,Product Manager,"Need a manager who can handle a tema of 
+about ten product designers.
+At least 5 year of work experience is required.
+Age must be between 25 - 35."
+3,2,CompanyTwo,https://www.myurl.com,Web Designer,"Need a full stack web developer.
+No experience is required.
+Salary according to the experience.
+Age : 20 - 30."
+4,2,CompanyTwo,https://www.myurl.com,IOS Developer,"An ios developer is needed
+Must have experience of at least one project.
+Age must be between 20 to 30."

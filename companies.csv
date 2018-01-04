@@ -1,0 +1,8 @@
+id,username,companyName,address,profileLink,contactNumber,emailId,password,isFirstTime
+1,companyEMS100000,CompanyOne,"44, Vasant Vihar
+Jaipur, Rajasthan
+Pin: 303702",https://www.companyone.in,1234567890,company1@yahoo.com,pass,0
+2,companyEMS100001,CompanyTwo,"11, My Address
+My City,
+My State,
+India",https://www.myurl.com,7896541230,company2@yahoo.com,pass12,0

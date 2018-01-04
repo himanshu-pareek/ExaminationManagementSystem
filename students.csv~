@@ -1,0 +1,11 @@
+id,username,firstName,lastName,dob,degree,marks,contactNumber,emailId,password,isFirstTime
+1,userEMS45654,Himanshu,Pareek,9565865555,Ph.D.,88,9609751494,himanshupareekiit01@gmail.com,pass,0
+2,userEMS45655,firstname,lastname,9565865,B.Tech.,80,9609751494,hp76123@gmail.com,pass123,0
+3,userEMS45656,abc,xyz,1490660164209,M.Tech.,80,1234567890,abc.xyz@gmail.com,pass,0
+4,userEMS45657,ABC,XYZ,9565865,M.Sc.,99,9876543210,xyz.abc@gmail.com,pass123,0
+5,userEMS45658,Student,lastname,9565865,Secondary,60,1236547896,student@gmail.com,pass1,0
+6,userEMS45659,shyam,das,1490812200000,M.Tech.,90,4567898525,abc@xyz.domain,shyam@321,0
+7,userEMS45660,Ram,Bajaj,1458090864817,L.K.G.,50,7412589632,ram.bajaj@gmail.com,7412589632,1
+8,userEMS45661,Aakash,Das,1490777407555,M.Sc.,60,8528528520,akash@yahoo.com,aakash@321,0
+9,userEMS45662,Akash,Das,1490173276671,B.Tech.,62,9876543210,akash@yaoo.com,9876543210,1
+10,userEMS45663,Akash,Das,1489568597114,B.Tech.,92,1236547896,aakash@gmail.com,1236547896,1

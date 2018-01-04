@@ -1,0 +1,11 @@
+id,username,companyName,address,profileLink,contactNumber,emailId,password,isFirstTime
+1,companyEMS100000,"Name of the company, Company","Ajmer, Jaipur, Rajasthan, India, Pin : 303701",http://www.url.company.com,9876543210,company@gmail.com,passcompany,0
+2,companyEMS100001,Another Company,"Town, city, district, state, country (pin : XXXXXX)",http://www.urlofcompany.domain,1234567890,anothercompany@gmail.com,pass1,0
+3,companyEMS100002,Company Three,"Ajmer
+District - Jaipur
+State - Rajasthan
+Country - India
+Pin code - 303701",https://urlofcompany3.com,9609751494,company3@gmail.com,newpass,0
+4,companyEMS100003,CompanyOne,"44, Vasant Vihar
+Jaipur, Rajasthan
+Pin : 303702",https://www.companyone.in,1234567890,company1@yahoo.com,1234567890,1
